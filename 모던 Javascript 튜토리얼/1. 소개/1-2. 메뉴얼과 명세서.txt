@@ -1,0 +1,17 @@
+튜토리얼 이외 추가로 참고할만한 자료들
+
+1. 명세서
+EXMA-262 명세서: 가장 상세한 자바스크립트 관련 문서
+- https://www.ecma-international.org/publications/standards/Ecma-262.htm
+
+
+2. 매뉴얼
+MDN JavaScript Reference: 특정 함수 및 메서드 관련 정보
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
+혹은 구글 검색 시 - MDN [검색 내용]으로 검색
+
+3. 호환성 표
+내가 사용하려는 기능을 특정 브라우저가 지원하는지 확인
+- http://caniuse.com
+- http://caniuse.com/#feat=cryptography
+- https://kangax.github.io/compat-table 
